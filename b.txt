@@ -1,0 +1,2 @@
+usequery how it works
+sql for query runs what to wwirte where
